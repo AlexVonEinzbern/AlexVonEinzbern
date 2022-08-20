@@ -2,7 +2,7 @@
 
 - :brain:  I’m currently learning neuroimaging and biomedical imaging
 - :books: Machine learning and Deep learning Enthusiast
-- :snake: Scientific Computing and Software Development with Python
+- :snake: Scientific Computing and Backend Development with Python
 <!--
 **AlexVonEinzbern/AlexVonEinzbern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
