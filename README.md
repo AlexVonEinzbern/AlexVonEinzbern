@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- :brain:  I’m currently learning neuroimaging and biomedical imaging
+- :brain:  I’m currently learning neuroimaging and image processing
 - :books: Machine learning and Deep learning Enthusiast
-- :snake: Scientific Computing and Backend Development with Python
-- :gem: Improving my Backend Development Skills in Go
+- :snake: Scientific Computing and Backend Development with Python and Java
 <!--
 **AlexVonEinzbern/AlexVonEinzbern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
