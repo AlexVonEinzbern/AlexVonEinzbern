@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ☕  Java (Spring boot) Backend developer
+- ☕  Java (Spring boot) & Typescript Backend developer
 - :snake: Scientific Computing with Python
 <!--
 **AlexVonEinzbern/AlexVonEinzbern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
