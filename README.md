@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- ☕  Java (Spring boot) & Typescript Backend developer
 - :snake: Scientific Computing with Python & C++
+- ESP32 Microcontroller Developer
+- Trying to be a Master student
 <!--
 **AlexVonEinzbern/AlexVonEinzbern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
